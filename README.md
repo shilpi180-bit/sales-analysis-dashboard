@@ -73,7 +73,7 @@ Customer and product visualizations help compare sales contributions and product
 
 The interactive Power BI dashboard presents key business metrics and visualizations in a consolidated view.
 
-![Sales Analysis Dashboard](Dashboard Image.png)
+![Sales Analysis Dashboard](Dashboard%20Image.png)
 
 ## Results & Conclusion
 
